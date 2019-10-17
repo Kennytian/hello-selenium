@@ -1,0 +1,14 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "node start.ts"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  },
+  "devDependencies": {
+    "@types/node": "^12.11.1",
+    "@types/selenium-webdriver": "^4.0.5",
+    "typescript": "^3.6.4"
+  }
+}
